@@ -12,7 +12,7 @@ Para ello, se combinan:
 
 El enfoque es exploratorio y busca identificar patrones, relaciones y posibles factores determinantes.
 
----
+
 
 ## Contenido del repositorio
 
@@ -20,7 +20,7 @@ El enfoque es exploratorio y busca identificar patrones, relaciones y posibles f
 - Presentación en formato PDF/PPT utilizada para la entrega virtual  
 - Visualizaciones y validación de hipótesis  
 
----
+
 
 ## Hipótesis evaluadas
 
@@ -29,7 +29,7 @@ El enfoque es exploratorio y busca identificar patrones, relaciones y posibles f
 3. Influencia de la generación (efecto nostalgia).  
 4. Diferencia entre Pokémon legendarios y no legendarios.  
 
----
+
 
 ## Tecnologías utilizadas
 
@@ -40,7 +40,7 @@ El enfoque es exploratorio y busca identificar patrones, relaciones y posibles f
 - Pytrends  
 - Requests (PokeAPI)  
 
----
+
 
 ## Estado del proyecto
 
